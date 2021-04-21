@@ -71,7 +71,8 @@ $ yarn dev
 - `Github OAuth Authentication`
 - `Stripe payment connection`
 - `FaunaDB to save users payment`
-- `Next with TypeScript`
+- `Prismic to create a post`
+
 
 Made with ❤️ by Allexis Figueiredo 👋🏽 [Contact me!](https://www.linkedin.com/in/allexis-figueiredo/)
 
